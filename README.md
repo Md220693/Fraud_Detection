@@ -12,7 +12,7 @@ Interactive visualizations for fraud patterns
 Python (pandas, NumPy, scikit-learn, XGBoost)
 Data Visualization (Matplotlib, Seaborn)
 Model Training (Logistic Regression, Random Forest, XGBoost)
-Jupyter Notebook for development
+VScode for development
 
 ## Dataset:
 The dataset is not stored in this repository due to size limitations. Please download it from:
